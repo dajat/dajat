@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daja, an <a href="https://linkedin.com/in/dt-411b54228">IT Professional</a>☺</h1>
+<h1>Hi, I'm Daja! ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
