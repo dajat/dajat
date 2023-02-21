@@ -6,9 +6,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+- <b>Implement Active Directory (On-Premises) in Azure</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Network Security Groups(NSGs) and Inspecting Network Protocols](https://github.com/dajat/azure-network-protocols)
+
+- <b>Performing Activities on the Network in Virtual Machines</b>
+  - [Use Windows and Linx resources on Azure Network Security Groups to connect traffice between 2 Virtual Machines](https://github.com/dajat/configure-ad)
+  - [Observe traffic in DNS, RDP, SSh, and DHCP Servers](https://github.com/dajat/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
