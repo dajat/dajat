@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Network Security Groups(NSGs) and Inspecting Network Protocols](https://github.com/dajat/azure-network-protocols)
 - <b>Performing Activities on the Network in Virtual Machines</b>
-  - [Use Windows and Linx resources on Azure Network Security Groups to connect traffice between 2 Virtual Machines](https://github.com/dajat/create-vm)
+  - [Use Windows and Linx resources on Azure Network Security Groups](https://github.com/dajat/create-vm)
   - [Observe traffic in DNS, RDP, SSh, and DHCP Servers](https://github.com/dajat/traffic-in-networks)
 
 <h2>🤳Connect with me:</h2>
