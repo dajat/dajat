@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Create a Virtual Machine in Azure](https://github.com/dajat/vm-azure)
+  - [Understand Virtual Private Networks (VPNs)](https://github.com/dajat/vm-vpn)
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
