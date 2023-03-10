@@ -11,6 +11,7 @@
   - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
+  - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
 
 
 <h2>🤳Connect with me:</h2>
