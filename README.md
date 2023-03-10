@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
-  - [Network Security Groups(NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
 
 
 <h2>🤳Connect with me:</h2>
