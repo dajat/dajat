@@ -12,7 +12,7 @@
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
   - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
-- <b>System Administrator Tasks</b>
+- <b>System Administration</b>
   - [Group Policy Management](https://github.com/dajat/gp-policy)
   - [Windows Server Updates](https://github.com/dajat/ws-updates)
 
