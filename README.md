@@ -15,6 +15,7 @@
 - <b>System Administration</b>
   - [Group Policy Management](https://github.com/dajat/gp-policy)
   - [Windows Server Updates](https://github.com/dajat/ws-updates)
+  - [Hyper-V](https://github.com/dajat/hyper-v-demo)
 
 
 <h2>🤳Connect with me:</h2>
