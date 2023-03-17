@@ -14,9 +14,3 @@
   - [Group Policy Management](https://github.com/dajat/gp-policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
   - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Daja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/dt-411b54228
