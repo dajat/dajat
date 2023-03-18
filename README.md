@@ -23,5 +23,5 @@
   - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
   
   <b>Virtualization</b>
-  - [Installing Hyper-V](https://github.com/dajat/hyper-v)
+  - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
   - [Installing VMware](https://github.com/dajat/vm-ware)
