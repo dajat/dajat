@@ -8,12 +8,12 @@
 
 <h2>:computer:Information Technology Projects:</h2>
   
-  <b>osTicket (Help Desk Ticketing System)</b>
+<b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqsw=1)
   - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-configw=1)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecyclew=1)
 
-  <b>Microsoft Azure</b>
+<b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
@@ -24,4 +24,3 @@
   
   <b>Virtualization</b>
   - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
-  - [Installing VMware](https://github.com/dajat/vm-ware)
