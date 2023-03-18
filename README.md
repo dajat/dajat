@@ -7,13 +7,13 @@
 <h3>I'm Daja, an aspiring Cloud Engineer :cloud:<h3>
 
 <h2>:computer:Information Technology Projects:</h2>
-
+  
   <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
 
-<b>Microsoft Azure</b>
+  <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
   - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
   - [Network File Shares and Permissions](https://github.com/dajat/network-file-share)
@@ -21,7 +21,7 @@
   - [Group Policy Management](https://github.com/dajat/gp-policy)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
   - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
-
+  
   <b>Virtualization</b>
   - [Installing Hyper-V](https://github.com/dajat/hyper-v)
   - [Installing VMware](https://github.com/dajat/vm-ware)
