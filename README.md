@@ -20,7 +20,7 @@
 - [Windows Server Updates](https://github.com/dajat/ws-updates)
 - [Group Policy Management](https://github.com/dajat/gp-policy)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
-- [Virtual Private Networks](https://github.com/dajat/vpn-discover)
+- [Virtual Private Networks](https://github.com/dajat/vpn-discove)
 
 <b>Virtualization</b>
 - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
