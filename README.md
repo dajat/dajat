@@ -9,9 +9,9 @@
 <h2>:computer:Information Technology Projects:</h2>
   
   <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqsw=1)
+  - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-configw=1)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecyclew=1)
 
   <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
