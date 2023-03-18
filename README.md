@@ -4,7 +4,7 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
 </summary>
-<h3>I'm Daja, an aspiring Cloud Engineer :cloud:<h3>
+<h3>I'm Daja, an IT Professional and aspiring Cloud Engineer :cloud:<h3>
 
 <h2>:computer:Information Technology Projects:</h2>
   
