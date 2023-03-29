@@ -10,9 +10,9 @@
   
 <h3>osTicket (Help Desk Ticketing System)</h3>
   
-- [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqsw=1)
-- [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-configw=1)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecyclew=1)
+- [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
 
 <h3>Microsoft Azure</h3>
   
