@@ -21,3 +21,15 @@
 <h3>Virtualization</h3>
   
 - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
+
+<h3>Cybersecurity</h3>
+
+- [Conducting a Security Audit](https://github.com/dajat/)
+- [Analyzing Network Structure and Security](https://github.com/dajat/)
+- [Using Linux Commands for File Permissions](https://github.com/dajat/)
+- [SQL Queries](https://github.com/dajat/)
+- [Identifying Vulnerabilites](https://github.com/dajat/)
+- [Document Incidents in an Incident Handler's Journal](https://github.com/dajat/)
+- [Importing and Parsing a Text File](https://github.com/dajat/)
+- [SIEM Lab](https://github.com/dajat/)
+
