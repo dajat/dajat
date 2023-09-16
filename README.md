@@ -27,9 +27,7 @@
 - [Conducting a Security Audit]
 - [Analyzing Network Structure and Security]
 - [Using Linux Commands for File Permissions]
-- [SQL Queries]
 - [Identifying Vulnerabilites]
-- [Document Incidents in an Incident Handler's Journal]
 - [Importing and Parsing a Text File]
 - [SIEM Lab]
 
