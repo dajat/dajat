@@ -24,12 +24,12 @@
 
 <h3>Cybersecurity</h3>
 
-- [Conducting a Security Audit](https://github.com/dajat/)
-- [Analyzing Network Structure and Security](https://github.com/dajat/)
-- [Using Linux Commands for File Permissions](https://github.com/dajat/)
-- [SQL Queries](https://github.com/dajat/)
-- [Identifying Vulnerabilites](https://github.com/dajat/)
-- [Document Incidents in an Incident Handler's Journal](https://github.com/dajat/)
-- [Importing and Parsing a Text File](https://github.com/dajat/)
-- [SIEM Lab](https://github.com/dajat/)
+- [Conducting a Security Audit]
+- [Analyzing Network Structure and Security]
+- [Using Linux Commands for File Permissions]
+- [SQL Queries]
+- [Identifying Vulnerabilites]
+- [Document Incidents in an Incident Handler's Journal]
+- [Importing and Parsing a Text File]
+- [SIEM Lab]
 
