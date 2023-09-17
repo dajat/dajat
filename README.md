@@ -26,7 +26,7 @@
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Analyzing Network Structure and Security]
-- [Using Linux Commands for File Permissions]
+- [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
 - [Identifying Vulnerabilites]
 - [Importing and Parsing a Text File]
 - [SIEM Lab]
