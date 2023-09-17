@@ -25,9 +25,9 @@
 <h3>Cybersecurity</h3>
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
-- [Analyzing Network Structure and Security]
+- [Incident Handler Journal]
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
-- [Identifying Vulnerabilites]
+- [Vulnerability Assessment]
 - [Importing and Parsing a Text File]
 - [SIEM Lab]
 
