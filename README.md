@@ -24,7 +24,7 @@
 
 <h3>Cybersecurity</h3>
 
-- [Conducting a Security Audit]
+- [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Analyzing Network Structure and Security]
 - [Using Linux Commands for File Permissions]
 - [Identifying Vulnerabilites]
