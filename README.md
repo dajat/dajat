@@ -26,5 +26,5 @@
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
-- [Vulnerability Assessment]
+- [Vulnerability Assessment](https://github.com/dajat/vulnerability-assessment)
 
