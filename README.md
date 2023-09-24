@@ -1,4 +1,4 @@
-<h1>I'm Daja, an IT Professional:wave:</h1>
+<h1>I'm Daja (Day-jah), an IT Professional:wave:</h1>
 
 <h2>:computer:Information Technology Projects:</h2>
   
