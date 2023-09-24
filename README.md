@@ -27,4 +27,4 @@
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
 - [Vulnerability Assessment](https://github.com/dajat/vulnerability-assessment)
-- [SIEM Tutorial](https://github.com/dajat/SIEM-tutorial)
+- [SIEM Tutorial](https://github.com/dajat/SIEM_tutorial)
