@@ -7,13 +7,13 @@
 <div>
 </summary>
   
-<h3>osTicket (Help Desk Ticketing System)</h3>
+<h3>:pushpin:osTicket (Help Desk Ticketing System)</h3>
   
 - [osTicket: Prerequisites and Installation](https://github.com/dajat/osticket-prereqs)
 - [osTicket: Post-Installation Configuration](https://github.com/dajat/post-install-config)
 - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
 
-<h3>Microsoft Azure</h3>
+<h3>:cloud:Microsoft Azure</h3>
   <details close>
 <div>
 </summary>
@@ -26,14 +26,14 @@
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dajat/nsg-protocols)
 - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
 
-<h3>Virtualization</h3>
+<h3>:pushpin:Virtualization</h3>
 <details close>
 <div>
 </summary>
   
 - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
 
-<h3>Cybersecurity</h3>
+<h3>:mag_right:Cybersecurity</h3>
 <details close>
 <div>
 </summary>
