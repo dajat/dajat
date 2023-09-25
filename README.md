@@ -3,6 +3,9 @@
 <h1>I'm Daja (Day-jah), an IT Professional:wave:</h1>
 
 <h2>:computer:Information Technology Projects:</h2>
+<details close>
+<div>
+</summary>
   
 <h3>osTicket (Help Desk Ticketing System)</h3>
   
@@ -11,6 +14,9 @@
 - [osTicket: Ticket Lifecycle Examples](https://github.com/dajat/ticket-lifecycle)
 
 <h3>Microsoft Azure</h3>
+  <details close>
+<div>
+</summary>
   
 - [Configuring Active Directory within Azure Virtual Machines](https://github.com/dajat/configure-ad)
 - [Understanding DNS in Domain Controller](https://github.com/dajat/DNS-Azure)
@@ -21,10 +27,16 @@
 - [Virtual Private Networks](https://github.com/dajat/vpn-discover)
 
 <h3>Virtualization</h3>
+<details close>
+<div>
+</summary>
   
 - [Installing Hyper-V](https://github.com/dajat/hyper-v-demo)
 
 <h3>Cybersecurity</h3>
+<details close>
+<div>
+</summary>
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
