@@ -2,11 +2,16 @@
 
 <h1>I'm Daja (Day-jah), an IT Professional:wave:</h1>
 
-<h2>:computer:Information Technology Projects:</h2>
+<h2>:computer:CyberSecurity and IT Projects:</h2>
   
 <h3>Cybersecurity</h3>
 
-- [Cloud SOC Project](https://github.com/dajat/cloud_prereqs)
+- [Cloud SOC Project]
+   - [Cloud SOC Prerequisites]
+   - [Setting up the Cloud Architecture]
+   - [Creating Microsoft Sentinel and Ingesting logs into the Log Analytics Workspace]
+   - [Performing Incident Response and Hardening Security Posture]
+   - [Enabling Regulatory Compliance with NIST 800-53 and NIST S3-7]
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
 - [Vulnerability Assessment](https://github.com/dajat/vulnerability-assessment)
