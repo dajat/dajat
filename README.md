@@ -2,13 +2,15 @@
 
 <h1>I'm Daja (Day-jah), an IT/Cloud Cybersecurity Professional:wave:</h1>
 
+![](https://komarev.com/ghpvc/?username=dajat&label=Profile%20views&color=blueviolet&style=flat-square)
+
 <h2>:computer:CyberSecurity and IT Projects:</h2>
   
 <h3>Cybersecurity</h3>
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
-- [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
+- [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)t
 - [Security Information and Event Management](https://github.com/dajat/SIEM_tutorial)
 
 <h3>Microsoft Azure</h3>
