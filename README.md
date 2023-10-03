@@ -8,6 +8,7 @@
   
 <h3>Cybersecurity</h3>
 
+- [Cloud SOC Project](https://github.com/dajat/cloud_SOC)
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
 - [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
