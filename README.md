@@ -10,7 +10,7 @@
 
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
-- [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)t
+- [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
 - [Security Information and Event Management](https://github.com/dajat/SIEM_tutorial)
 
 <h3>Microsoft Azure</h3>
