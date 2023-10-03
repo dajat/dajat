@@ -5,6 +5,7 @@
 <h2>:computer:CyberSecurity and IT Projects:</h2>
   
 <h3>Cybersecurity</h3>
+
 - [Conducting a Security Audit](https://github.com/dajat/audit)
 - [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
 - [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
