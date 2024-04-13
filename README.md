@@ -5,7 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=dajat&label=Profile%20views&color=blueviolet&style=flat-square)
 
 <h2>:computer:CyberSecurity and IT Projects:</h2>
-  
+
+<h3>Identity Access and Management (IAM)</h3>  
+
+- [Automated User Creation](https://github.com/dajat/iam_autousercreation)
+
 <h3>Cybersecurity</h3>
 
 - [Cloud SOC Project](https://github.com/dajat/cloud_SOC)
