@@ -6,7 +6,7 @@
 
 <h2>:computer:CyberSecurity and IT Projects:</h2>
 
-<h3>Identity Access and Management (IAM)</h3>  
+<h3>Identity Access Management (IAM)</h3>  
 
 - [Automated User Creation](https://github.com/dajat/iam_autousercreation)
 
