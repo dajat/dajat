@@ -9,6 +9,7 @@
 <h3>Identity Access Management (IAM)</h3>  
 
 - [Automated User Creation](https://github.com/dajat/iam_autousercreation)
+- [Active Directory Federation](https://github.com/dajat/iam_federation)
 
 <h3>Cybersecurity</h3>
 
