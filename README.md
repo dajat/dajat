@@ -1,6 +1,6 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-<h1>I'm Daja (Day-jah), an IT/Cloud Cybersecurity Professional :wave: </h1>
+<h1>I'm Daja (Day-jah), an IT Professional :wave: </h1>
 
 ![](https://komarev.com/ghpvc/?username=dajat&label=Profile%20views&color=blueviolet&style=flat-square)
 
