@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dajat&label=Profile%20views&color=blueviolet&style=flat-square)
 
-<h2>:computer:CyberSecurity and IT Projects:</h2>
+<h2>:computer:Projects:</h2>
 
 <h3>Identity Access Management (IAM)</h3>  
 
