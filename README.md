@@ -8,7 +8,7 @@
 
 <h3>Automation Testing</h3>
 
-- [Playwright & JavaScript](https://github.com/dajat/30-Days-To-Automation)
+- [30 Days To Automation: Playwright & JavaScript](https://github.com/dajat/30-Days-To-Automation)
 
 <h3>Identity Access Management (IAM)</h3>  
 
