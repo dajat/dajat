@@ -9,6 +9,7 @@
 <h3>Automation Testing</h3>
 
 - [30 Days To Automation: Playwright & JavaScript](https://github.com/dajat/30-Days-To-Automation)
+- [CI/CD Integration with GitHub Actions](https://github.com/dajat/CI-CD)
 
 <h3>Identity Access Management (IAM)</h3>  
 
