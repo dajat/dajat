@@ -16,12 +16,13 @@
 - [Automated User Creation](https://github.com/dajat/iam_autousercreation)
 - [Active Directory Federation](https://github.com/dajat/iam_federation)
 
-<h3>Cybersecurity</h3>
+<!-- <h3>Cybersecurity</h3>
 
-- [Cloud SOC Project](https://github.com/dajat/cloud_SOC)
-- [Using Linux Commands for File Permissions](https://github.com/dajat/linux)
-- [Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
-- [Security Information and Event Management](https://github.com/dajat/SIEM_tutorial)
+Cloud SOC Project](https://github.com/dajat/cloud_SOC)
+Using Linux Commands for File Permissions](https://github.com/dajat/linux)
+Vulnerability Management](https://github.com/dajat/vulnerability-assessment)
+Security Information and Event Management](https://github.com/dajat/SIEM_tutorial)
+-->
 
 <h3>Microsoft Azure</h3>
   
