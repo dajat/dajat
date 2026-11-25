@@ -10,6 +10,7 @@
 
 - [30 Days To Automation: PlayWright and JavaScript](https://github.com/dajat/30DaysToAutomation)
 - [CI/CD Integration with GitHub Actions](https://github.com/dajat/CI-CD)
+- [Engineering Challenges and Root Cause Analysis](https://github.com/dajat/ET-Challenges)
 
 <h3>Identity Access Management (IAM)</h3>  
 
